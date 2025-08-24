@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  ![Stats](https://github-readme-stats.vercel.app/api?username=ta502&theme=dark&hide_border=false&count_private=true&show_icons=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ta502&theme=dark&hide_border=false&layout=compact)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=Ta52j&theme=dark&hide_border=false&count_private=true&show_icons=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ta52j&theme=dark&hide_border=false&layout=compact)
   
 </div>
