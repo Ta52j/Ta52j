@@ -8,21 +8,30 @@
   
 </div>
 
-<h2 align="center">Tools 🛠️</h2>
+<h2 align="center">Dev Tools 🛠️</h2>
 
 <div align="center">
   
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git,github&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
-<h2 align="center">Other Skills 🪄</h2>
+<h2 align="center">Creative Tools 🎨</h2>
 
 <div align="center">
   
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape,blender,audacity,vmwareworkstation,virtualbox,linux&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape,blender,audacity,vmwareworkstation,virtualbox,linux&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape,blender,audacity&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=gimp,inkscape,blender,audacity&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  
+</div>
+
+<h2 align="center">Operating Systems ⚙️</h2>
+
+<div align="center">
+  
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,linux&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,linux&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
