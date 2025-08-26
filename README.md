@@ -12,8 +12,8 @@
 
 <div align="center">
   
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,idea,robloxstudio,git&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
