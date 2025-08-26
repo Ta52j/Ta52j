@@ -26,12 +26,12 @@
   
 </div>
 
-<h2 align="center">Platforms ⚙️</h2>
+<h2 align="center">Platforms 🖥️</h2>
 
 <div align="center">
   
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,linux&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,linux&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,windows,linux&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vmwareworkstation,virtualbox,windows,linux&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
