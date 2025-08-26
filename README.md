@@ -26,7 +26,7 @@
   
 </div>
 
-<h2 align="center">Operating Systems ⚙️</h2>
+<h2 align="center">Platforms ⚙️</h2>
 
 <div align="center">
   
