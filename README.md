@@ -3,8 +3,8 @@
 
 <div align="center"> 
   
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,python,lua&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,python,lua&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,python,lua,luau&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,python,lua,luau&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
