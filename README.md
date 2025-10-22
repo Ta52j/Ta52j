@@ -1,5 +1,12 @@
 <h1 align="center">Hi, I'm Talal 👋</h1>
-<h2 align="center">Languages 💡</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Languages 💡</h2>
+    </summary>
+  </ul>
+</div>
+
 
 <div align="center"> 
   
@@ -8,7 +15,13 @@
   
 </div>
 
-<h2 align="center">Dev Tools 🛠️</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Dev Tools 🛠️</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   
@@ -17,7 +30,13 @@
   
 </div>
 
-<h2 align="center">Creative Tools 🎨</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Creative Tools 🎨</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   
@@ -26,7 +45,13 @@
   
 </div>
 
-<h2 align="center">Platforms 🖥️</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Platforms 🖥️</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   
@@ -35,7 +60,13 @@
   
 </div>
 
-<h2 align="center">Stats 📈</h2>
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Stats 📈</h2>
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   
