@@ -14,8 +14,8 @@
 
 <div align="center">
   
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,robloxstudio,vscodium,notepadpp,git,github,sqlite,maven,gradle&theme=light&perline=5#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,robloxstudio,vscodium,notepadpp,git,github,sqlite,maven,gradle&theme=dark&perline=5#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,robloxstudio,vscodium,notepadpp,git,maven,gradle&theme=light&perline=4#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,robloxstudio,vscodium,notepadpp,git,maven,gradle&theme=dark&perline=4#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
