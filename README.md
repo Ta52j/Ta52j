@@ -5,8 +5,8 @@
 
 <div align="center">
   
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,lua,luau,bash,powershell&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
-  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,lua,luau,bash,powershell&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,lua,luau&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,python,lua,luau&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
   
 </div>
 
