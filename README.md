@@ -35,12 +35,3 @@
   [![Languages](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,vmwareworkstation,virtualbox,qemu&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 </div>
-
-<h3 align="center">Stats 📈</h3>
-
-<div align="center">
-  
-  [![Ta52j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ta52j&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  ![Ta52j's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ta52j&layout=compact&hide_border=true&theme=transparent)
-  [![Ta52j's Streak](https://streak-stats.demolab.com?user=Ta52j&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-</div>
